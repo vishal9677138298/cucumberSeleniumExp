@@ -1,0 +1,42 @@
+# Ignore IntelliJ project files
+.idea/
+*.iml
+
+# Ignore compiled Java files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore target folder (Maven build artifacts)
+target/
+
+# Ignore test reports
+test-output/
+
+# Ignore Selenium-related driver logs
+chromedriver.log
+geckodriver.log
+
+# Ignore Cucumber reports (if using reports folder)
+reports/
+
+# Ignore Maven wrapper files
+.mvn/
+!mvn/wrapper/maven-wrapper.jar
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Java dependency folder (if using Gradle)
+.gradle/
+build/
+
+# Ignore Eclipse project files (if ever opened in Eclipse)
+.project
+.classpath
+.settings/
