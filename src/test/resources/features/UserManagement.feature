@@ -25,4 +25,5 @@ Feature: Adding new users
     | asfa     | sdfsd    | sfsd     |
     | aw43fs   | jhgj     | wsw45s   |
     | 232      |  dfs     | sfd33    |
+    | sfsd22   | sdd33    | ss33     |
 
