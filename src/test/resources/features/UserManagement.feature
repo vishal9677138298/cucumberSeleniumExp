@@ -24,5 +24,4 @@ Feature: Adding new users
     | column 1 | column 2 | column 3 |
     | asfa     | sdfsd    | sfsd     |
     | aw43fs   | jhgj     | wsw45s   |
-    | dfv34r   | 8394sfd  | lklkw4   |
-    | ndsf23   | sf234    | gsfd     |
+
